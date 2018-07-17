@@ -1,0 +1,10 @@
+.container-fluid{
+	padding-bottom : 0px;
+}
+.footer-align {
+  padding-bottom: 60px;
+  background-color: #2e2e2e; }
+
+.footer-text {
+  font-style: normal;
+  line-height: 1.6; }
